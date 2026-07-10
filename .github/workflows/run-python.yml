@@ -19,7 +19,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
-        python-version: '3.10' # Change to match your PyCharm Python version
+        python-version: '3.12' # Change to match your PyCharm Python version
 
     # Step 3: Install dependencies (uncomment if you have a requirements.txt file)
     # - name: Install dependencies
@@ -29,4 +29,4 @@ jobs:
 
     # Step 4: Run your main script
     - name: Execute Python Script
-      run: python main.py # Replace main.py with the name of your entry script
+      run: python room_checker.py # Replace main.py with the name of your entry script
