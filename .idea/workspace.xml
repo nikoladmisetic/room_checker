@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95cbc302-4e55-46bd-9fba-9055ba2f9c01" name="Changes" comment="Requirements text file added">
+    <list default="true" id="95cbc302-4e55-46bd-9fba-9055ba2f9c01" name="Changes" comment="Json edit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,14 +101,42 @@
       <option name="project" value="LOCAL" />
       <updated>1783706606808</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Json edit">
+      <option name="closed" value="true" />
+      <created>1783708166103</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1783708166104</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Json edit">
+      <option name="closed" value="true" />
+      <created>1783708236271</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1783708236271</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Github Actions Workflow" />
     <MESSAGE value="First attempt at fixing Github Actions Workflow" />
     <MESSAGE value="Github Workflow Take 2" />
     <MESSAGE value="Requirements text file added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Requirements text file added" />
+    <MESSAGE value="Json edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Json edit" />
   </component>
 </project>
