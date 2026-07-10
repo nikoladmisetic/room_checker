@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95cbc302-4e55-46bd-9fba-9055ba2f9c01" name="Changes" comment="Github Workflow Take 2">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="95cbc302-4e55-46bd-9fba-9055ba2f9c01" name="Changes" comment="Requirements text file added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,13 +93,22 @@
       <option name="project" value="LOCAL" />
       <updated>1783706386762</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Requirements text file added">
+      <option name="closed" value="true" />
+      <created>1783706606808</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1783706606808</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Github Actions Workflow" />
     <MESSAGE value="First attempt at fixing Github Actions Workflow" />
     <MESSAGE value="Github Workflow Take 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Github Workflow Take 2" />
+    <MESSAGE value="Requirements text file added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Requirements text file added" />
   </component>
 </project>
